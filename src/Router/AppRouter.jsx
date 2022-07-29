@@ -1,7 +1,6 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
 
-import {Navbar} from '../ui';
 import { LoginPage } from '../auth';
 import { HeroesRoutes } from '../heroes';
 import { PrivateRoute } from './PrivateRoute';
